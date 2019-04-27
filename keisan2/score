@@ -1,0 +1,8 @@
+score = 30
+if score > 80
+puts "えらいね"
+end
+score = 90
+if score > 80
+puts "えらいね"
+end 
